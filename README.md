@@ -1,6 +1,5 @@
 # extreme-sport-site
-<img width="1194" alt="Screen Shot 2024-05-07 at 3 35 40 AM" src="https://github.com/sarvinnazeri/fashion-site/assets/166671712/d635f37f-9f76-46ad-b6bd-b84fb2b516dc">
-<img width="1194" alt="Screen Shot 2024-05-07 at 3 35 40 AM" src="https://github.com/sarvinnazeri/fashion-site/assets/166671712/b5d77c8d-4c71-4657-adc4-54886d262574">
+<img width="1440" alt="Screen Shot 2024-05-12 at 2 40 49 PM" src="https://github.com/sarvinnazeri/extreme-sport-site/assets/166671712/4beb4a1f-7e65-4ced-b43d-3c3be422ee2b">
 
 - [Demo Project][(https://sarvinnazeri.github.io/fashion-site/)]
 
